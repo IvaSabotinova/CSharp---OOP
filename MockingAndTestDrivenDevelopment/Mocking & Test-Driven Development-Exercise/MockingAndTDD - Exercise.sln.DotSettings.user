@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=686f8fea_002D7c6a_002D4fd4_002D8ad4_002D3573ee942092/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddOnlyUniqueTransactions" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.AddOnlyUniqueTransactions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.ContainsOnlyTransactionsWithUniqueID&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckContainsUniqueIDMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.ExceptionWhenTransactionWIthThatIDNotFoundToChangeStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.ChangeTransactionStatusOfTransactionWithExistingID&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.ExceptionWhileRemovingWhenTransactionWithThatIDNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.RemovingWhenTransactionWithThatIDExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.GettingTransactionByID&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.ExceptionWhenGettingTransactionsByNonExistingID&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.Exception_WhenNoTransactionsWithRequiredStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.GetTransactionsWithRequiredExistingStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.Exception_WhenHaveToReturnSendersAndNoTransactionsWithRequiredStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.GetListOfAllSendersWithTransactionsWithRequiredExistingStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.Exception_WhenHaveToReturnReceiversAndNoTransactionsWithRequiredStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.GetListOfAllReceiversWithTransactionsWithRequiredExistingStatus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodToReturnAllTransactionsOrderedDescendingByAmountAndTHEnByID&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodGetBySenderOrderedByAmountDescendingWhenSuchSenderExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodGetByReceiverOrderedByAmountThenById&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodGetByTransactionStatusAndMaximumAmount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.Exception_GetBySenderAndMinimumAmountDescending&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodGetBySenderAndMinimumAmountDescending&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.CheckMethodGetByReceiverAndAmountRange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.GetAllInAmountRange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f91f3f00_002Db1e2_002D488f_002Db311_002D2ba6841b327e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddOnlyUniqueTransactions #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::52CE8C2B-1557-4D2D-B228-F1C5696E5332::.NETCoreApp,Version=v3.1::Chainblock.ChainblockTest.AddOnlyUniqueTransactions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
