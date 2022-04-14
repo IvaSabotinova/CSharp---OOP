@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32c07fb1_002Dee85_002D4e0a_002D9c5e_002D08c16cefc7cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckCollectionPerformersExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckCollectionPerformersExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=828b472b_002Dd8b3_002D45d0_002D8d48_002D8e41e5103a25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Exception_CheckValidationPerformer" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Exception_CheckAddPerformerMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckAddPerformerMethod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Exception_CheckMethodAddSong&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Exception_CheckMethodAddSongToPerformer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckMethodPlay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckValidationOfPerformers_Songs&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Exception_CheckMethodAddSongToPerformerWithInvalidPerformer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Exception_CheckMethodAddSongToPerformerWithInvalidSong&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckMethodAddSongToPerformerAndCOuntOfSongs&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.CheckMethodAddSongToPerformer&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

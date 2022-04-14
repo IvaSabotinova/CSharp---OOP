@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=53e9804f_002De2a0_002D4177_002Db62e_002Dce49e41421c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Exception_CheckAddMethodWhenDriverIsNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Exception_CheckAddMethodWhenDriverIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.CheckAddMethodWhenAddingNewDriver&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Exception_CheckMethodCalculateAverageHorsePower&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.CheckMethodCalculateAverageHorsePower&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd68eedb_002D19c3_002D4893_002D90b3_002D2c77935a80de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Exception_CheckAddMethodWhenDriverIsAlreadyAdded" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Exception_CheckAddMethodWhenDriverIsAlreadyAdded&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

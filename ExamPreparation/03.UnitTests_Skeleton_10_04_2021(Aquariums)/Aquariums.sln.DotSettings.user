@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=70774512_002D5377_002D4b3f_002Dbea3_002D3b08ace81d62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Exceptions_CheckCtor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Exceptions_CheckCtor&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5007250_002Dbabc_002D4746_002Da3d2_002D9a8e7d450e86/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckCtor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.CheckCtor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Exceptions_CheckCtorWhenCapacityIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.CheckCtorWhenCreatingAquarium&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Exception_CheckAddMethodWhenCapacityIsReached&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Exception_CheckRemoveMethodWhenFishDoesntExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.CheckRemoveMethodWhenFishExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Exception_CheckSellFishMethodWhenFishDoesntExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.CheckSellFishMethodWhenFishExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.CheckReportMethod&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
