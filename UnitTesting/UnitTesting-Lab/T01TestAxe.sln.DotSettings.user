@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fca1984b_002D7c74_002D443b_002Da90a_002D5d55bb71a48b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DummyLoosesHealthIfAttacked" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A22A249-37CB-409B-A968-29BF775620C4::.NETCoreApp,Version=v3.1::Skeleton.Tests.DummyTests.DummyLoosesHealthIfAttacked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A22A249-37CB-409B-A968-29BF775620C4::.NETCoreApp,Version=v3.1::Skeleton.Tests.DummyTests.DummyThrowsExceptionIfAttacked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A22A249-37CB-409B-A968-29BF775620C4::.NETCoreApp,Version=v3.1::Skeleton.Tests.AxeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A22A249-37CB-409B-A968-29BF775620C4::.NETCoreApp,Version=v3.1::Skeleton.Tests.DummyTests.DeadDummyCanGiveXP&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A22A249-37CB-409B-A968-29BF775620C4::.NETCoreApp,Version=v3.1::Skeleton.Tests.DummyTests.AliveDummyCannotGiveXP&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
