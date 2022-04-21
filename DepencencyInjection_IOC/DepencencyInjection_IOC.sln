@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection_IOC", "DepencencyInjection_IOC\DependencyInjection_IOC.csproj", "{540727C4-F9D3-48D8-8600-4C9717D020AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniDI", "SoftUniDI\SoftUniDI.csproj", "{FDB1AAAC-FF99-45D9-B1CA-F5ACB1950E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540727C4-F9D3-48D8-8600-4C9717D020AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540727C4-F9D3-48D8-8600-4C9717D020AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540727C4-F9D3-48D8-8600-4C9717D020AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540727C4-F9D3-48D8-8600-4C9717D020AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB1AAAC-FF99-45D9-B1CA-F5ACB1950E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB1AAAC-FF99-45D9-B1CA-F5ACB1950E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB1AAAC-FF99-45D9-B1CA-F5ACB1950E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB1AAAC-FF99-45D9-B1CA-F5ACB1950E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B055AC40-9F6C-483B-BBF9-F2648790AAA2}
+	EndGlobalSection
+EndGlobal
