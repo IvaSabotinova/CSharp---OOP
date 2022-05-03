@@ -35,7 +35,7 @@
             }
         }
 
-        // TODO: refactor for Problem 4
+       
         private string InterpredCommand(string[] data, string commandName)
         {
             string commandFullName = commandName[0].ToString().ToUpper() + commandName.Substring(1) + "Command";
@@ -60,10 +60,6 @@
             //}
             //return result;
         }
-
-
-
-
 
 
     }
